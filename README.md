@@ -27,7 +27,7 @@ Here we can observe that if the given array does not contains any duplicate numb
 
 ## Problem 4 : RBG Queries
 
-**Problem Statement** <br<br>
+**Problem Statement** <br><br>
 We have been given with **N** set of colours. Every colour has three components : red, blue and green. In the problem the color is represented as a triplet **(ri, bi, gi)** denoting the intesities of three colours. Now there are **Q** queries.
 In each query we have been given a color **(rx, bx, gx)** and we have to determine whether it can be formed by mixing some of the colours from our initial set. If we mix **(r1, b1, g1), (r2, b2, g2), ...., (rk, bk, gk)** then we obtain **(max(r1,r2,..,rk), max(b1,b2,..,bk), max(g1,g2,..,gk))**
 
